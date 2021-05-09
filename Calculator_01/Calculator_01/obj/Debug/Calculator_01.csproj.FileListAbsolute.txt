@@ -1,0 +1,10 @@
+C:\Users\miyuki\source\repos\Calculator_01\Calculator_01\bin\Debug\Calculator_01.exe.config
+C:\Users\miyuki\source\repos\Calculator_01\Calculator_01\bin\Debug\Calculator_01.exe
+C:\Users\miyuki\source\repos\Calculator_01\Calculator_01\bin\Debug\Calculator_01.pdb
+C:\Users\miyuki\source\repos\Calculator_01\Calculator_01\obj\Debug\Calculator_01.csprojAssemblyReference.cache
+C:\Users\miyuki\source\repos\Calculator_01\Calculator_01\obj\Debug\Calculator_01.Properties.Resources.resources
+C:\Users\miyuki\source\repos\Calculator_01\Calculator_01\obj\Debug\Calculator_01.csproj.GenerateResource.cache
+C:\Users\miyuki\source\repos\Calculator_01\Calculator_01\obj\Debug\Calculator_01.csproj.CoreCompileInputs.cache
+C:\Users\miyuki\source\repos\Calculator_01\Calculator_01\obj\Debug\Calculator_01.exe
+C:\Users\miyuki\source\repos\Calculator_01\Calculator_01\obj\Debug\Calculator_01.pdb
+C:\Users\miyuki\source\repos\Calculator_01\Calculator_01\obj\Debug\Calculator_01.SimpkeCalculator.resources
